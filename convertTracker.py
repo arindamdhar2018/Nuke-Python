@@ -3,7 +3,8 @@
 import nuke
 import nukescripts
 import nuke.rotopaint as rp
-	
+
+print ("hi")
 # Returns a list with the names of all tracks in the node.
 def getTrackerNames(node): 
 
